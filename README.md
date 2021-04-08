@@ -1,6 +1,6 @@
 # Personal-Project-Carousel-de-fotos-HTML-CSS-JS
 
-
+![gif2](https://user-images.githubusercontent.com/69303138/113958181-031ed280-97f7-11eb-8b34-d69466a75ec1.gif)
 
 ## 👨‍💻 **Projeto**👨‍💻
 
