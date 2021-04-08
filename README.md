@@ -3,6 +3,7 @@
 
 
 👨‍💻 Projeto👨‍💻
+
 O projeto **Carousel-de-fotos-HTML-CSS-JS** é baseado na criação de um carrousel de fotos que pode ser manipulado atraves do scroll do mouse ou bela barra de rolagem da propria pagina.
 
 ⌨ Linguagens Utilizadas no Projeto⌨
